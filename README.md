@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aggelos561.Aggelos561" />
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Aggelos561.visitor-badge)
 
 <!--
 **Aggelos561/Aggelos561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
